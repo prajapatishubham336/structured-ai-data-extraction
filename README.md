@@ -170,7 +170,7 @@ Run the main Python script from the terminal after activating the virtual enviro
 The program processes the included sample text and prints the structured result along with its JSON representation.
 
 ```bash
-python app.py
+python main.py
 ```
 
 ---
